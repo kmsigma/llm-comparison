@@ -13,5 +13,13 @@ Responses:
 | LLM | Engine | Response | Response Feedback | Script | Script Corrections/Feedback | Grade | Does it Run? |
 |-----|--------|----------|-------------------|--------|-----------------------------|-------|--------------|
 | Copilot | Think Deeper | [Response](copilot-thinkdeeper/response.md) | [Response Feedback](copilot-thinkdeeper/response-feedback.md) | [Script](copilot-thinkdeeper/script.ps1) | [Script Corrections](copilot-thinkdeeper/script-corrections.ps1) | ⭐⭐⭐⭐ (4/5) | 👎 |
+| ChatGPT | (vanilla) | [Response](chatgpt/response.md) | | [Script](chatgpt/script.ps1) | | | ❓ |
+| Liquid AI | LFM2-1.2b | [Response](liquid.ai-lfm2-1.2b/response.md) | | [Script](liquid.ai-lfm2-1.2b/script.ps1) | | | ❓ |
+| Liquid AI | LFM2-2.6b | [Response](liquid.ai-lfm2-2.6b/response.md) | | [Script](liquid.ai-lfm2-2.6b/script.ps1) | | | ❓ |
+| Liquid AI | LFM2-8B-A1B | [Response](liquid.ai-lfm2-8b-a1b/response.md) | | [Script](liquid.ai-lfm2-8b-a1b/script.ps1) | | | ❓ |
 
-> The 'Responses' from each LLM is presented as close to the original response in a Markdown format.  Some LLMs have custom wrappers for certain elements which I will not be attempting to replicate.
+## Notes
+
+The 'Responses' from each LLM is presented as close to the original response in a Markdown format.  Some LLMs have custom wrappers for certain elements which I will not be attempting to replicate.
+
+I elected to skip the "follow-up" responses from the LLMs ("What would you like me to do next?")
