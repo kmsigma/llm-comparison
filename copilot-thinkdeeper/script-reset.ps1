@@ -1,3 +1,10 @@
+<######################################################################
+
+This is my own creation to help remove any artifacts for further
+testing the scripts.
+
+######################################################################>
+
 <#
 Removal / Reset Script for the copilot-thinkdepper script
 #>

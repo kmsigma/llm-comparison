@@ -6,7 +6,7 @@ Although the returned script is _pretty_ good (see my comments in [script-correc
 
 In the repository, the build calls for 4 VMs in total.  The response creates 7.
 
-The names of the VMs also don't follow the naminc scheme outlined in the repository.
+The names of the VMs also don't follow the g scheme outlined in the repository.
 
 ## Script results
 
