@@ -12,6 +12,6 @@ Responses:
 
 | LLM | Engine | Response | Response Feedback | Script | Script Corrections/Feedback | Grade | Does it Run? |
 |-----|--------|----------|-------------------|--------|-----------------------------|-------|--------------|
-| Copilot | Think Deeper | [Response](copilot-thinkdeeper\response.md) | [Response Feedback](copilot-thinkdeeper\response-feedback.md) | [Script](copilot-thinkdeeper\script.ps1) | [Script Corrections](copilot-thinkdeeper\script-corrections.ps1) | ⭐⭐⭐⭐ (4/5) | 👎 |
+| Copilot | Think Deeper | [Response](copilot-thinkdeeper/response.md) | [Response Feedback](copilot-thinkdeeper/response-feedback.md) | [Script](copilot-thinkdeeper/script.ps1) | [Script Corrections](copilot-thinkdeeper/script-corrections.ps1) | ⭐⭐⭐⭐ (4/5) | 👎 |
 
 > The 'Responses' from each LLM is presented as close to the original response in a Markdown format.  Some LLMs have custom wrappers for certain elements which I will not be attempting to replicate.
