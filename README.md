@@ -4,7 +4,7 @@ As part of my home life, I've got a home lab.  And I like to run various workloa
 
 ## This repo
 
-Large Language Models (LLMs) are a great tool for doing wuick research on technical things, but each one seems to have their own halicinations.  In this particular repo, I'm going to try and collect my findings.
+Large Language Models (LLMs) are a great tool for doing quick research on technical things, but each one seems to have their own hallucinations.  In this particular repo, I'm going to try and collect my findings on as many LLMs as I can in my spare time.
 
 I started with a simple [prompt](prompt.md) that I felt was a slow-pitch.  It checked if the LLM "knew" how to read a GitHub repository, could do a little research on a well known documentation site, and build a functional script.  The results varied, and I'm providing my own commentary within the scripts themselves.
 
